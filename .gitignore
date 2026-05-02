@@ -1,0 +1,12 @@
+# Archivos de sistema de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Entornos virtuales de Python
+venv/
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
